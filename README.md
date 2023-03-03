@@ -15,4 +15,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandremouraa&show_icons=true&locale=en&layout=compact" alt="alexandremouraa" /></p>
 
-<p color="black"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandremouraa&" alt="alexandremouraa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandremouraa&" alt="alexandremouraa" /></p>
