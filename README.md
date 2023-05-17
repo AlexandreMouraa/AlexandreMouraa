@@ -29,3 +29,5 @@
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandremouraa&theme=tokyonight" alt="alexandremouraa"></p>
 </div>
+
+![snake gif](https://github.com/AlexandreMouraa/AlexandreMouraa/blob/output/github-contribution-grid-snake.svg)
