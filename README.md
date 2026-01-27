@@ -14,7 +14,7 @@
 
 ### About me
 - 🧩 I work with **automation and reliability** in corporate IT environments  
-- 🐍 I build **backup routines** and operational automation using **Python/Bash** (logging, retention, error checks)
+- 🐍 I build operational automation using **Python/Bash** (logging, retention, error checks)
 - ☕ I develop **REST APIs** using **Java/Spring Boot** with **SQL/PostgreSQL**
 - 🐧 Linux/WSL2 • Git • Docker (basic) • cron
 - 📫 Reach me at: **alexandre.devsecops@gmail.com**
@@ -22,14 +22,14 @@
 ---
 
 ### Featured projects
-- 🔭 Working on: **dslist**  
+- 🧹 **infra_bkp_cleaner** — Backup cleanup tool focused on **retention policy**, safe deletion, and operational hygiene  
+  https://github.com/AlexandreMouraa/infra_bkp_cleaner
+
+- 🩺 **server_health_checker** — Server health checks (disk, memory, CPU, services) with **logs** and status reporting  
+  https://github.com/AlexandreMouraa/server_health_checker
+
+- 🔭 Working on: **dslist** (Java/Spring Boot)  
   https://github.com/AlexandreMouraa/dslist
-
-- 🚀 Automation / backups (Python/Bash): *(add your main repo here)*
-  https://github.com/AlexandreMouraa/<your-backup-repo>
-
-- 🧱 REST API (Java/Spring + PostgreSQL): *(add your main repo here)*
-  https://github.com/AlexandreMouraa/<your-api-repo>
 
 ---
 
