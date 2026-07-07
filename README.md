@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandre Moura</h1>
-<h3 align="center">Automation / DevOps Jr • Back-end (Java/Spring) • Python/Bash • SQL</h3>
+<h3 align="center">Automation / DevOps Jr • Back-end (Java/Spring, Python) • Infra & Observability</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alexandremouraa&label=Profile%20views&color=0e75b6&style=flat" alt="alexandremouraa" />
@@ -13,22 +13,30 @@
 ---
 
 ### About me
-- 🧩 I work with **automation and reliability** in corporate IT environments  
-- 🐍 I build operational automation using **Python/Bash** (logging, retention, error checks)
-- ☕ I develop **REST APIs** using **Java/Spring Boot** with **SQL/PostgreSQL**
-- 🐧 Linux/WSL2 • Git • Docker (basic) • cron
+- 🧩 I work with **automation and reliability** in a corporate IT environment (600+ users, ~20 servers)
+- 🐍 **Python/Bash** automation — backup/restore pipelines with logging, retention policy, and error checks
+- ☕ **REST APIs** in **Java (Spring Boot)** with **PostgreSQL**
+- 📊 **Monitoring & observability** with **Zabbix** and **Grafana**
+- ☸️ Learning **Kubernetes** hands-on (**kind** + **kubectl**), simulating outages and incident scenarios
+- 🐧 Linux/WSL2 • Docker • Git • cron
 - 📫 Reach me at: **alexandre.devsecops@gmail.com**
 
 ---
 
 ### Featured projects
-- 🧹 **infra_bkp_cleaner** — Backup cleanup tool focused on **retention policy**, safe deletion, and operational hygiene  
+- 🔎 **Intelligent Monitoring Agent** — Python application integrating **Zabbix** with an **LLM via MCP**, using subagents to triage and analyze incidents
+  https://github.com/AlexandreMouraa/COLE-O-LINK-AQUI
+
+- 🧹 **infra-backup-cleaner** — Backup automation focused on **retention policy**, integrity checks, and safe cleanup
   https://github.com/AlexandreMouraa/infra_bkp_cleaner
 
-- 🩺 **server_health_checker** — Server health checks (disk, memory, CPU, services) with **logs** and status reporting  
+- 🩺 **server_health_checker** — Server health checks (disk, memory, CPU, services) with logging and status reporting
   https://github.com/AlexandreMouraa/server_health_checker
 
-- 🔭 Working on: **dslist** (Java/Spring Boot)  
+🔭 Currently exploring: **Kubernetes** (kind + kubectl) — hands-on practice, project coming soon
+
+### Course projects
+- 🎓 **dslist** (Java/Spring Boot) — built during DevSuperior's *Intensivão Java Spring* course; practiced REST API design, JPA/Hibernate, and layered architecture
   https://github.com/AlexandreMouraa/dslist
 
 ---
@@ -37,9 +45,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/alexandre-moura-6148a0207/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-moura" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mouraaalexandree" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mouraaalexandree" height="30" width="40" />
   </a>
 </p>
 
@@ -71,11 +76,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
   </a>
 </p>
 
